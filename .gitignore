@@ -1,0 +1,10 @@
+node_modules
+.npm-debug.log
+tmp
+.sublime*
+.DS_Store
+demo2/
+dist/
+demo/
+_demo/
+_demo2/
